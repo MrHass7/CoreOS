@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.2.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCscGiBOvUgnt+DkCwSXIj8GU5EwZFMS4NuwW3YfwHuLjbDj3/BQ8WecHnhTWERh/6aZasmBQ8rW5Cbc9Hym7yDaqQJ1S9QFHHVa5yMR3WvxemL45qbz2yoOEXKSbj6NjoxVQGE4V8N8k5yAhZylj7/r6Ar41jFJe8d6LSEFcJvmtyTnFArxMAxuFld0L6e39buGf+/0BMX8YC99OqTr0EwqjBwEyxh+tEs4SDcgxxLIWERaAZAescnCE4X8E43Phy0LRdOSoVovyceod6rzZi7QAp1GVodFgre+qHipetOltZKHWke0f15k/vlJhBkT9QBvo86JymmSA3i3XxE+mJikBB4kQogNPULrZnUaZnmwmZb6B2YLstJ7JAzSg2b8oE3RBlDlmEUSbxhEXkHFCQ7mFYFT9dl6u5D8uuLMXyoTsCfj8UAjrUUG1tilKwnmoW/lXrwlOCp0WBqu/WU5UBbF3NcsnKHxPmzmptWja+d3YtUPLzfTr0Ylc3sFtW6LTs= hassan@kalilinux
